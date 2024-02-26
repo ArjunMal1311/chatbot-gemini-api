@@ -52,7 +52,7 @@ const Chatbot = () => {
     };
 
     return (
-        <div className="flex flex-col h-screen px-16 pt-4 pb-8">
+        <div className="flex flex-col h-screen md:px-16 px-3 pt-4 pb-8">
             <div className="flex justify-between items-center">
                 <div className={`font-bold text-3xl py-4 ${Roboto_Font.className}`}>HOPE AI</div>
 
